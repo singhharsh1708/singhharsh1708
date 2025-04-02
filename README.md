@@ -7,3 +7,4 @@ Hey there! I'm Harsh, a (slightly lazy) CSE student who loves to code, just not 
 
 🌱 Learning Python, Java, and how to avoid the dreaded infinite loop.
 ☕ Fun Fact: I debug best with a cup of coffee in hand.
+[![GitHub Streak](https://streak-stats.demolab.com/?user=singhharsh1708)](https://git.io/streak-stats)
