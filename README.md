@@ -43,14 +43,14 @@
   <h3>🛠️ Languages & Tools</h3>
   <p><i>The tech I use to build (and debug at 2 AM)</i></p>
   
-  <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" />
-  <img src="https://img.shields.io/badge/SciML-Scientific%20ML-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/DSA-Algorithms-important?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia" />
+  <img src="https://img.shields.io/badge/SciML-Scientific%20ML-blue?style=for-the-badge" alt="SciML" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/DSA-Algorithms-important?style=for-the-badge" alt="DSA" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
 ---
@@ -58,8 +58,8 @@
 ### 📈 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=singhharsh1708&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="195" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhharsh1708&theme=tokyonight&hide_border=true&background=0D1117" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=singhharsh1708&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhharsh1708&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="195" />
 </div>
 
 ---
@@ -67,10 +67,12 @@
 ### 🔗 Connect With Me
 
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/singhharsh1708)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge)](https://codeforces.com/profile/hs1663531)
-
+  <a href="https://singhharsh.in/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=safari&logoColor=36BCF7" alt="Portfolio" />
+  </a>
+  <a href="https://codeforces.com/profile/hs1663531" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
 </div>
 
 ---
@@ -81,5 +83,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" alt="Footer Banner" />
 </div>
