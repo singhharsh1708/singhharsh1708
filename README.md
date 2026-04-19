@@ -42,9 +42,10 @@
 ## ⚡ Tech Stack
 
 - **Languages:** Julia, Python, Java, C++  
-- **Domains:** SciML, DSA, Numerical Computing  
-- **Tools:** Git, Linux, Open Source  
-
+- **Focus:** Scientific Machine Learning (SciML), Numerical Computing  
+- **Environment:** macOS, Linux  
+- **Tools:** VS Code, Sublime Text, Git
+  
 ---
 
 <div align="center">
