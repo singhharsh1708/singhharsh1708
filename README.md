@@ -31,7 +31,7 @@
 
 ## 🧠 About Me
 
-- 🎓 CSE Student (2027)  
+- 🎓 IT Student (2027)  
 - 🔬 Working on **Scientific Machine Learning (SciML)**  
 - ⚙️ Contributor to **OrdinaryDiffEq & SciMLBenchmarks**  
 - 🚀 Interested in **Numerical Methods & High Performance Computing**  
