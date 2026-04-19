@@ -14,7 +14,6 @@
 
 <div align="center">
 
-### Harsh's Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=singhharsh1708&theme=github-compact&bg_color=0D1117&hide_border=true&line=00FFAA&point=FFFFFF" width="100%"/>
 
