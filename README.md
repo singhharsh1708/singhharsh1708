@@ -1,11 +1,11 @@
 <div align="center">
 
-# Hi, I'm Harsh 👋
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=9CA3AF&center=true&vCenter=true&width=600&height=80&lines=Hi,+I'm+Harsh+👋" />
 
 ---
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-singhharsh.in-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://singhharsh.in)
-[![Email](https://img.shields.io/badge/Email-hs1663531@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hs1663531@gmail.com)
+[![Email](https://img.shields.io/badge/Email-singhharsh1708@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhharsh1708@gmail.com)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Specialist-blue?style=for-the-badge)](https://codeforces.com/profile/hs1663531)
 
 </div>
