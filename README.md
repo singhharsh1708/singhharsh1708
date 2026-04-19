@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there,%20I'm%20Harsh!%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Smart%20Coder&descAlignY=55&descAlign=50" alt="Header Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=100&lines=Hi+there,+I'm+Harsh!+👋;CSE+Student" alt="Typing Header" />
 </div>
 
 <div align="center">
