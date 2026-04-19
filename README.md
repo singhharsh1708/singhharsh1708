@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=100&lines=Hi+there,+I'm+Harsh!+👋;CSE+Student" alt="Typing Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=100&lines=Hi+there,+I'm+Harsh!+👋;IT+Student" alt="Typing Header" />
 </div>
 
 <div align="center">
   <h3>👨‍💻 A Developer Who Prefers Smart Work Over Hard Work</h3>
   <p>
-    I'm a Computer Science student who enjoys building efficient systems, solving real problems, and contributing to open source.  
+    I'm an Information Technology student who enjoys building efficient systems, solving real problems, and contributing to open source. 
     Currently diving deep into <b>Scientific Machine Learning (SciML)</b>, <b>Julia</b>, and performance-focused programming.
   </p>
 </div>
@@ -14,7 +14,7 @@
 
 ### 🚀 What I'm up to
 
-- 🎓 **Studying:** B.Tech in Computer Science & Engineering (2027)
+- 🎓 **Studying:** B.Tech in Information Technology (2027)
 - 🔬 **Working On:** SciML, Differential Equations, Numerical Computing
 - 🌱 **Currently Learning:** Julia, Advanced DSA, System Design
 - 🧠 **Exploring:** Performance optimization & scientific computing
