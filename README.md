@@ -1,55 +1,51 @@
-<div align="center">
+<h1 align="center">Hi, I'm Harsh Singh 👋</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=9CA3AF&center=true&vCenter=true&width=600&height=80&lines=Hi,+I'm+Harsh+👋" />
+<p align="center">
+  GSoC '26 contributor @ <a href="https://sciml.ai">SciML</a> (NumFOCUS) · Scientific Machine Learning · Open Source
+</p>
 
----
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-singhharsh.in-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://singhharsh.in)
-[![Email](https://img.shields.io/badge/Email-hs1663531@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hs1663531@gmail.com)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Specialist-blue?style=for-the-badge)](https://codeforces.com/profile/hs1663531)
-
-</div>
-
----
-
-<div align="center">
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=singhharsh1708&theme=github-compact&bg_color=0D1117&hide_border=true&line=00FFAA&point=FFFFFF" width="100%"/>
-
-</div>
+<p align="center">
+  <a href="https://singhharsh.in"><img src="https://img.shields.io/badge/Portfolio-singhharsh.in-0A66C2?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:hs1663531@gmail.com"><img src="https://img.shields.io/badge/Email-hs1663531%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://codeforces.com/profile/hs1663531"><img src="https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"></a>
+</p>
 
 ---
 
-<div align="center">
+## About Me
 
-![Profile Views](https://komarev.com/ghpvc/?username=singhharsh1708&style=for-the-badge&color=0e75b6)
+- 🎓 IT undergraduate (Class of 2027)
+- 🔬 Google Summer of Code '26 contributor with **NumFOCUS / SciML**, working on differential equation solvers
+- ⚙️ Contributor to **[OrdinaryDiffEq.jl](https://github.com/SciML/OrdinaryDiffEq.jl)**, **[SciMLBenchmarks.jl](https://github.com/SciML/SciMLBenchmarks.jl)**, and **[ODEInterfaceDiffEq.jl](https://github.com/SciML/ODEInterfaceDiffEq.jl)**
+- 🚀 Interested in numerical methods, high-performance computing, and applied ML
+- 🏆 Competitive programmer — Specialist on Codeforces
 
-</div>
+## What I'm Building
+
+| Project | Description |
+|---|---|
+| [PredictEdge](https://github.com/singhharsh1708/predictedge) | Edge-AI predictive maintenance (RUL) prototype — CMAPSS + INT8 TFLite on Raspberry Pi |
+| [SciML Toolkit](https://github.com/singhharsh1708/sciml-toolkit) | VS Code extension for Julia SciML: inline execution, benchmark panel, LaTeX equation preview |
+| [ScrollCraft](https://github.com/singhharsh1708/scrollcraft) | AI-powered 2D scroll website builder with animated canvas backgrounds |
+| [GSoC Blog](https://github.com/singhharsh1708/gsoc_blog) | Technical blog documenting my GSoC '26 journey with SciML |
+
+## Tech Stack
+
+**Languages:** Julia · Python · C++ · Java · TypeScript
+
+**Focus areas:** Scientific Machine Learning · Numerical Computing · ODE/DAE Solvers
+
+**Tools:** Git · VS Code · macOS / Linux
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=singhharsh1708&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="GitHub stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhharsh1708&layout=compact&hide_border=true&langs_count=6" alt="Top languages" height="165">
+</p>
 
 ---
 
-## 🧠 About Me
-
-- 🎓 IT Student (2027)  
-- 🔬 Working on **Scientific Machine Learning (SciML)**  
-- ⚙️ Contributor to **OrdinaryDiffEq & SciMLBenchmarks**  
-- 🚀 Interested in **Numerical Methods & High Performance Computing**  
-- 💻 Competitive Programmer (Codeforces Specialist)  
-
----
-
-## ⚡ Tech Stack
-
-- **Languages:** Julia, Python, Java, C++  
-- **Focus:** Scientific Machine Learning (SciML), Numerical Computing  
-- **Environment:** macOS, Linux  
-- **Tools:** VS Code, Sublime Text, Git
-  
----
-
-<div align="center">
-
-_"Optimizing code is easy. Optimizing life is the real bug."_ 😄
-
-</div>
+<p align="center">
+  <i>Always open to collaborating on open-source scientific computing — feel free to reach out.</i>
+</p>
