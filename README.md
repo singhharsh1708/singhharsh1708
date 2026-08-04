@@ -15,3 +15,5 @@
 **Open source** — 70 merged PRs across the SciML ecosystem: [OrdinaryDiffEq.jl](https://github.com/SciML/OrdinaryDiffEq.jl), ModelingToolkit.jl, SciMLOperators.jl.
 
 **Building** — [kitbash](https://github.com/singhharsh1708/kitbash): a package manager and compiler for AI agent skills.
+
+**Community** — contributing to [Meshery](https://meshery.io) (MeshSync, meshkit) · <a href="https://meshery.io/community/recognition"><img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="Meshery First Design badge" height="36"></a>
