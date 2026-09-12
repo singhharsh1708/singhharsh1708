@@ -45,6 +45,7 @@ Google Summer of Code 2026 with <a href="https://sciml.ai/">SciML</a>, under Num
 
 - **[Pasteur Labs](https://github.com/pasteurlabs)** - [Tesseract](https://github.com/pasteurlabs/tesseract-core) and its [PyTorch](https://github.com/pasteurlabs/tesseract-torch) and [JAX](https://github.com/pasteurlabs/tesseract-jax) bindings, plus [Mosaic](https://github.com/pasteurlabs/mosaic): differentiable simulation components.
 - **[ZoneMinder](https://github.com/ZoneMinder/zoneminder)** - accessibility, PHP 9 forward-compatibility and build fixes in the video surveillance stack.
+- **[omi](https://github.com/BasedHardware/omi)** - crash and data-loss fixes in the app for the open-source AI wearable: SD card and offline recordings that got wiped, and decoders that one bad entry could take down.
 - **[Music Blocks](https://github.com/sugarlabs/musicblocks)** - Sugar Labs' visual music programming environment for children.
 - **[Irksome](https://github.com/firedrakeproject/Irksome)** - Runge-Kutta time stepping for Firedrake.
 - **Julia ecosystem** - [Documenter.jl](https://github.com/JuliaDocs/Documenter.jl), [EvoTrees.jl](https://github.com/Evovest/EvoTrees.jl), [SymbolicRegression.jl](https://github.com/astroautomata/SymbolicRegression.jl), [ArrayInterface.jl](https://github.com/JuliaArrays/ArrayInterface.jl), [PETSc.jl](https://github.com/JuliaParallel/PETSc.jl).
