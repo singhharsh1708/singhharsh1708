@@ -18,7 +18,7 @@ Google Summer of Code 2026 contributor at <a href="https://sciml.ai/">SciML</a>,
 
 ### What I build
 
-- [PETScDiffEq.jl](https://github.com/SciML/PETScDiffEq.jl) - PETSc's TS time integrators behind the SciML `solve` interface: explicit RK, Rosenbrock-W, BDF, Gauss IRK, ARK IMEX and DAE solvers. I wrote it and maintain it; it is registered in General.
+- [PETScDiffEq.jl](https://github.com/SciML/PETScDiffEq.jl) - PETSc's TS time integrators behind the SciML `solve` interface: explicit RK, Rosenbrock-W, BDF, Gauss IRK, ARK IMEX and DAE solvers, with PETSc's discrete adjoint for sensitivities. I wrote it and maintain it; it is registered in General.
 - [scrollcraft](https://github.com/singhharsh1708/scrollcraft) - AI scroll-website builder: a hosted app, plus a Claude Code skill you install with `/plugin marketplace add`.
 - [kitbash](https://github.com/singhharsh1708/kitbash) - package manager and compiler for AI agent skills. Write a skill once, run it in Claude Code, Cursor, Codex, Copilot and Gemini CLI.
 - [Assay.jl](https://github.com/singhharsh1708/Assay.jl) - Bayesian inference from first principles: MCMC, SMC and ADVI implemented rather than imported, with the SBC and Geweke checks that prove the numbers are right.
@@ -44,7 +44,7 @@ Google Summer of Code 2026 contributor at <a href="https://sciml.ai/">SciML</a>,
 ### Beyond Julia
 
 - **[Pasteur Labs](https://github.com/pasteurlabs)** - [Tesseract](https://github.com/pasteurlabs/tesseract-core) with its [PyTorch](https://github.com/pasteurlabs/tesseract-torch) and [JAX](https://github.com/pasteurlabs/tesseract-jax) bindings, and [Mosaic](https://github.com/pasteurlabs/mosaic): dtype checks at the runtime boundary, gradients through list-valued fields, and adjoints for FEniCS solvers.
-- **[ZoneMinder](https://github.com/ZoneMinder/zoneminder)** - accessibility, PHP 9 forward-compatibility and build fixes in the video surveillance stack.
+- **[ZoneMinder](https://github.com/ZoneMinder/zoneminder)** - output escaping, accessibility, PHP 9 forward-compatibility and schema fixes in the video surveillance stack.
 - **[omi](https://github.com/BasedHardware/omi)** - crash and data-loss fixes in the app for the open-source AI wearable: SD card and offline recordings that got wiped, and decoders that one bad entry could take down.
 - **[openpilot](https://github.com/commaai/openpilot)** - comma.ai's driver assistance system. Its test runner was skipping every parameterized test class; now they run.
 - **[Music Blocks](https://github.com/sugarlabs/musicblocks)** - Sugar Labs' visual music programming environment for children.
