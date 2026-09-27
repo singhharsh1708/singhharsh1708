@@ -21,11 +21,12 @@ Research with the Chair of Computational Mathematics, TU Hamburg, and the Numeri
 
 ---
 
-### I. Written and maintained
+### I. Built and maintained
 
 - **[PETScDiffEq.jl](https://github.com/SciML/PETScDiffEq.jl)** - PETSc's TS time integrators behind the SciML `solve` interface: explicit RK, Rosenbrock-W, BDF, Gauss IRK, ARK IMEX and DAE solvers, with PETSc's discrete adjoint for sensitivities. Registered in General, and the package I spend most maintenance time on.
 - **[scrollcraft](https://github.com/singhharsh1708/scrollcraft)** - scroll-animation site builder. Launched as a paid SaaS, since made free and open source; also a Claude Code plugin.
 - **[kitbash](https://github.com/singhharsh1708/kitbash)** - one open format for AI agent skills, compiled to ten coding agents, with the standing token cost of each output measured at build time. On npm and Homebrew.
+- **Amazon ML Challenge 2026** - business entity resolution across 10 million noisy multilingual records against 1.7 million reference businesses: 0.988642 public F0.5 among 8,269 teams, built in 44 hours on one laptop with team Inno8. [Write-up](https://singhharsh.in/blog/amazon-ml-challenge-2026).
 - **[Assay.jl](https://github.com/singhharsh1708/Assay.jl)** - Bayesian inference from first principles: MCMC, SMC and ADVI implemented rather than imported, with the SBC and Geweke checks that prove the numbers are right.
 
 ---
